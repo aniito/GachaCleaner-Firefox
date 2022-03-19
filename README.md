@@ -58,11 +58,6 @@
 ![screenshot](https://github.com/aniito/GachaCleaner-Firefox/blob/main/icons/remplaced.gif)
 
 
-## Liens
-Téléchargement : `https://addons.mozilla.org/fr/firefox/addon/gachacleaner/`
-[download](https://addons.mozilla.org/fr/firefox/addon/gachacleaner/)
-
-
 ---
 
 > fait avec plaisir !
