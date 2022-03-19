@@ -66,3 +66,4 @@ Téléchargement : `https://addons.mozilla.org/fr/firefox/addon/gachacleaner/`
 ---
 
 > fait avec plaisir !
+> mais le paypal <a href="https://paypal.me/LeCerfVolant/"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" ></img></a>
