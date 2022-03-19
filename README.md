@@ -55,7 +55,7 @@
   - La terminaison est reliée au pronom utilisé pour la fonction ci-dessus
 
 
-![screenshot](/home/anito/Bureau/devv/addons/GachaCleaner/icons/remplaced.gif)
+![screenshot](https://github.com/aniito/GachaCleaner-Firefox/blob/main/icons/remplaced.gif)
 
 
 ## Liens
