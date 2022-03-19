@@ -37,9 +37,9 @@
 
 
 
-
-<img src="https://imgur.com/nOo5b0d.png" align="center" />
-
+<h1 align="center" >
+  <img src="https://imgur.com/nOo5b0d.png" align="center" />
+</h1>
 
 ## Changer "iel" 🤮 en :
 
