@@ -10,7 +10,7 @@
 
 <h4 align="center">Une Extension Firefox pour purifier la lecture</h4>
 <p align="center">
-  <a href="https://addons.mozilla.org/fr/firefox/addon/gachacleaner/">Downaload</a>
+  <a href="https://addons.mozilla.org/fr/firefox/addon/gachacleaner/">Download</a>
 </p>
 <p align="center">
   <a>
