@@ -1,0 +1,37 @@
+{
+
+    "manifest_version": 2,
+    "name": "GachaCleaner",
+    "version": "1.2",
+  
+    "description": "Replace all Gacha-words by a normal word",
+    "icons": {
+      "120": "icons/120.png",
+      "40": "icons/40.png"
+    },
+
+    "content_scripts": [
+      {
+          "exclude_matches": ["https://duckduckgo.com/*", "https://google.com/*", "https://twitter.com/*"],
+          "matches": ["<all_urls>"],
+          "js": ["/script/jquery.js", "/script/replace.js"]
+          
+      }
+    ],
+
+    "background": {
+      "scripts": ["/script/replace.js"]
+    },
+
+    "permissions": [
+      "activeTab",
+      "storage", "<all_urls>", "unlimitedStorage"
+    ],
+  
+    "browser_action": {
+      "default_icon": "icons/120.png",
+      "default_title": "GachaCleaner",
+      "default_popup": "poppup/index.html"
+    }
+  
+}
