@@ -47,7 +47,7 @@
   - ne marche pas sur **certains** médias sociaux **pour le moment** (tweeter etc..)
 <br>
 
-![screenshot](https://github.com/aniito/GachaCleaner-Firefox/blob/main/icons/remplaced.gif)
+![screenshot](https://github.com/aniito/GachaCleaner-Firefox/blob/main/icons/GR.gif)
 
 ## Purifier l'écriture 🎓 :
 
