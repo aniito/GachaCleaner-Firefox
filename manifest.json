@@ -12,9 +12,8 @@
 
     "content_scripts": [
       {
-          "exclude_matches": ["https://duckduckgo.com/*", "https://google.com/*", "https://twitter.com/*"],
           "matches": ["<all_urls>"],
-          "js": ["/script/jquery.js", "/script/replace.js"]
+          "js": ["/script/replace.js"]
           
       }
     ],
