@@ -60,6 +60,7 @@ Téléchargement : `https://addons.mozilla.org/fr/firefox/addon/gachacleaner/`
 [download](https://addons.mozilla.org/fr/firefox/addon/gachacleaner/)
 
 ## ChangeLogs :
+V0 : ancienne version, en JQuery se trouve dans /script/backup-ancienne-version-0.js
 V1.1 : suppression de Jquery pour fulll JS + remplacement du fameux drapeau de la propagande par : 🏳️‍🌈⃠
 
 ---
