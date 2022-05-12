@@ -4,7 +4,7 @@
  <img src="/icons/external-content.duckduckgo.com.png" alt="Markdownify" width="200"/>
   </center>
   <br>
-  GachaCleaner
+  GachaCleaner V1.1
   <br>
 </h1>
 
@@ -17,9 +17,6 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
  
-  <a>
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  </a>
 
   <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
