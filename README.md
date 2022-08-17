@@ -56,8 +56,8 @@
 
 
 ## Liens
-Téléchargement : `https://addons.mozilla.org/fr/firefox/addon/gachacleaner/`
-[download](https://addons.mozilla.org/fr/firefox/addon/gachacleaner/)
+Téléchargement : `https://addons.mozilla.org/fr/firefox/addon/gachacleaner-v1/`
+[download](https://addons.mozilla.org/fr/firefox/addon/gachacleaner-v1/)
 
 ## ChangeLogs :
 V0 : ancienne version, en JQuery se trouve dans `/script/backup-ancienne-version-0.js` <br>
